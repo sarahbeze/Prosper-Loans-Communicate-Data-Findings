@@ -8,8 +8,10 @@ Udacity Data Analyst Nanodegree Project 3
 - **Clean & Aggregate Data for Use:** Utilized Python to analyze 114,000 peer-to-peer lending loans with 81 variables on each loan. Performed data cleaning and EDA to explore and analyze borrower profiles, loan characteristics, and risk factors in Prosper’s peer-to-peer lending ecosystem
 - **Discover Increased Risk Predictors:** Identify key indicators that predict loan outcomes and inform risk-based decision-making
 
-Image 1 
-Image 2
+
+![Screenshot of Loan Status by Credit Score Range chart](https://github.com/sarahbeze/Prosper-Loans-Communicate-Data-Findings/blob/main/prosper01-1024x599.webp)
+
+![Screenshot of Monthly Payment vs Loan Amount by Loan Term Scatter Plot](https://github.com/sarahbeze/Prosper-Loans-Communicate-Data-Findings/blob/main/prosper02-1024x599.webp)
 
 ## Insights & Impact:
 
